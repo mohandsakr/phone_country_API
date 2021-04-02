@@ -21,8 +21,8 @@
  ![](./afterSearch-screenshoot.png)
 ### Code Architecture: 
 ![](./backEnd-architecture .png)
-### Test archture: 
-![](./backEnd-architecture .png
+### Test Architecture: 
+![](./backEnd-architecture .png)
 #### How to build  and run:  
 **Pull the project and create mvn clean instal :** 
   > git pull <repoURL> 

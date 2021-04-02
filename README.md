@@ -18,6 +18,8 @@ For a large data I see that data should be on the database on table country of t
 |country_name|country_code|country_regex|
 |---|---|---|
 |Cameroon|+237|\(237\)\ ?[2368]\d{7,8}$|
+
+
 Then render them on the page on load and when search join the country tale to complete the task .
 here i decide to make it as simple and clean as i could.
 

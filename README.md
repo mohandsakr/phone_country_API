@@ -27,12 +27,12 @@ here i decide to make it as simple and clean as i could.
  **It's a Sring-boot application with Thymeleaf** 
 **using spring-data-jpa and sqlite3 database  . You can filter using countrey and phone status Valid or Not Valid**
 
-![](./onload-screenshoot.png)
- ![](./afterSearch-screenshoot.png)
+![](./onload-screenshoot.png =100*100)
+ ![](./afterSearch-screenshoot.png =100*100)
 ### Code Architecture: 
-![](./backEnd-architecture .png)
+![](./backEnd-architecture.png =100*100)
 ### Test Architecture: 
-![](./backEnd-architecture .png)
+![](./backEnd-architecture.png =100*100)
 #### How to build  and run:  
 **Pull the project and create mvn clean instal :** 
   > git pull <repoURL> 

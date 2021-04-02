@@ -30,9 +30,9 @@ here i decide to make it as simple and clean as i could.
 ![](./onload-screenshoot.png )
  ![](./afterSearch-screenshoot.png )
 ### Code Architecture: 
-![](./backEnd-architecture.png)
+![](./backend.png)
 ### Test Architecture: 
-![](./backEnd-architecture.png )
+![](./test.png)
 #### How to build  and run:  
 **Pull the project and create mvn clean instal :** 
   > git pull <repoURL> 

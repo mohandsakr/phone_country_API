@@ -26,8 +26,8 @@
 #### How to build  and run:  
 **Pull the project and create mvn clean instal :** 
   > git pull <repoURL> 
-  mvn clean install 
-  >
+  > mvn clean install 
+  
   then run as a spring boot application then go to:
   localost:8090
   

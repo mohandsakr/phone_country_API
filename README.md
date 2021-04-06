@@ -24,8 +24,8 @@ Then render them on the page on load and when search join the country tale to co
 here i decide to make it as simple and clean as i could.
 
 ### About: 
- **It's a Sring-boot application with Thymeleaf** 
-**using spring-data-jpa and sqlite3 database  . You can filter using countrey and phone status Valid or Not Valid**
+**It's a Spring-boot application with Thymeleaf using spring-data-jpa and sqlite3 database.** 
+**You can filter using country and phone status Valid or Not Valid**
 
 ![](./onloadt.png)
  ![](./afterSearch-screenshoot.png )

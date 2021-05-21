@@ -13,7 +13,7 @@ import com.sakr.sqlite.DTO.CountryPhoneNumberDTO;
 import com.sakr.sqlite.service.CustomerService;
 
 @Controller
-@RequestMapping("/Country")
+@RequestMapping("/country")
 public class CountryController {
 
 	@Autowired
